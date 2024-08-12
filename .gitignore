@@ -1,7 +1,0 @@
-node_modules/
-.env
-dist/
-.next/
-.nuxt/
-.cache/
-.DS_Store
